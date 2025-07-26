@@ -1,6 +1,7 @@
 # requirements.txt
 snowflake-snowpark-python
 streamlit
+streamlit.title('My Parents New Healthy Diner')
 # Import python packages
 import streamlit as st
 from snowflake.snowpark.functions import col
